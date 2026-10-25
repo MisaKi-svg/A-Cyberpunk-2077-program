@@ -1,0 +1,4 @@
+C:/Users/18336/Desktop/DSH/build/vs2022-x64/CMakeFiles/Qt6FramelessDemo.dir
+C:/Users/18336/Desktop/DSH/build/vs2022-x64/CMakeFiles/INSTALL.dir
+C:/Users/18336/Desktop/DSH/build/vs2022-x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/18336/Desktop/DSH/build/vs2022-x64/CMakeFiles/ZERO_CHECK.dir
